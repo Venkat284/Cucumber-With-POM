@@ -6,7 +6,7 @@
 	<groupId>CucumberPOM</groupId>
 	<artifactId>Cucumber</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>Cucumber</name>
 	<url>http://maven.apache.org</url>
